@@ -1,0 +1,17 @@
+
+{
+"name": "okvip777",
+"theme": "ok vip 777",
+"version": "6.6.10",
+"description": "ok vip 777 สมัครเว็บสล็อตเว็บตรง สมาชิกเยอะ แจกเครดิตฟรี",
+"keywords": [
+"ok vip 777",
+"ok vip 777 เครดิตฟรี",
+"ok vip 777 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/okvip777",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
